@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -8,5 +9,4 @@
     font-family: 'DotGothic16', sans-serif;
     --main-text-color: black;
     --background-color: rgb(50, 206, 211);
-    color: var(--main-text-color);
 }
