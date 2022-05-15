@@ -10,3 +10,8 @@
     --main-text-color: black;
     --background-color: rgb(50, 206, 211);
 }
+
+.img {
+    display: block;
+    width: 100%;
+}
